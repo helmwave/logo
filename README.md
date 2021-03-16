@@ -8,3 +8,6 @@
 
 ## PNG 1024x1024
 ![logo](logo.png)
+
+## ICO 256x256
+![logo](logo.ico)
