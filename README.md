@@ -1,6 +1,6 @@
 # Logo
 
-Thanks [@gradergage](https://github.com/gradergage) for logo!
+Thanks [@gradergage](https://github.com/gradergage) for logo! 💙
 
 
 ## SVG
