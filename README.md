@@ -1,5 +1,8 @@
 # Logo
 
+Thanks [@gradergage](https://github.com/gradergage) for logo!
+
+
 ## SVG
 ![logo](logo.svg)
 
